@@ -5,7 +5,7 @@ A bash script for generating a .xml file that contains the location of two image
 Run the commands given below in a terminal :
 
 ```bash
-git clone https://github.com/suchinton/WallC.git 
+git clone https://github.com/pranavchachra1702/WallC-Gnome-41-.git
 cd WallC/
 bash ./cw.sh 
 ```
